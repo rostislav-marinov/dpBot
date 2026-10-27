@@ -1,6 +1,15 @@
-# Working on nanobot
+This is fork of `Nanobot` called `dpBot`. Modification of Nanobot to my liking.
+
+# Working on dpBot
 
 The Python gateway owns agent execution, sessions, tools, memory, and security policy. WebUI and TUI share that runtime; keep execution and policy out of the clients.
+
+## Differences
+* We will use `./.agent/requirments.md` for storing requirments
+* We will use `./.agent/plans/todo` for upcoming plans
+* We will use `./.agent/plans/progress` for plans in progress
+* We will use `./.agent/plans/done` for done plans
+* We will use `./bundles` for OKF bundles
 
 ## Task-specific guidance
 
